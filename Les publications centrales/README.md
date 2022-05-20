@@ -23,8 +23,11 @@
 • Service Operation (Opération des services)
 
 • Continual Service Improvement (Amélioration continue des services)
+  
+  
 
-- #  1. Service Strategy (stratégie des services)
+
+- #  1. Service Strategy (stratégie des services) (Module 3)
 
 1. Son rôle
 
@@ -47,7 +50,7 @@ B. La direction financière
 ![image](https://user-images.githubusercontent.com/95431446/169309533-1b288e3a-985d-44e1-a3b1-ba1ca3517d0f.png)
 
 
-- # 2. Service Design (Design de la stratégie)
+- # 2. Service Design (Design de la stratégie) (Module 3)
 
 • Son rôle
 
@@ -61,7 +64,7 @@ Définir les processus
 
 Définir les indicateurs de mesure du service
 
-- # 3. Service Transition (Transition des services)
+- # 3. Service Transition (Transition des services) (Module 4)
 
 • Son rôle
 Mettre en production en respectant les livrables produits par la conception des services ainsi que les coûts
@@ -79,7 +82,7 @@ Respecter les critères de qualité, de sécurité et les délais dans la déliv
 Prendre en compte et améliorer la perception client
 
 
-- # 4. Service Operation (Opération des services)
+- # 4. Service Operation (Opération des services) (Module 6)
 1. Objectif
 Coordonner les activités des processus garantissant l’atteinte des niveaux de service convenus
 
@@ -95,7 +98,7 @@ Exploitation – Supervision – Pilotage – Support – Maintenance
 Produire des indicateurs pour permettre à la phase d’amélioration continue de faire des propositions d’optimisation de la DSI
 
 
-- # 5. • Continual Service Improvement (Amélioration continue des services)
+- # 5. • Continual Service Improvement (Amélioration continue des services) (Module 7)
 
 1. Objectifs
 Analyser les résultats des différents contrats (SLA, OLA, UC)
