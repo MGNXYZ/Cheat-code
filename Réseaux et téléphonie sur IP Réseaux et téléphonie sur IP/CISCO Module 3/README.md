@@ -86,6 +86,5 @@ commutateurs S2 et S3 ont configuré automatiquement les ports raccordés au com
 >![image](https://user-images.githubusercontent.com/95431446/170267722-1413422b-1b99-4208-b493-f13fc7584df8.png)
 _Tout les vlan sont autorisé a traverser le trunk_
 
-Etape 3 : 
 
 
